@@ -14,3 +14,7 @@ Import edilen iconları kullanımı;
 <a href="https://github.com/sumeyye-aydemir" target="_blank"><FontAwesomeIcon className ='font-awesome' icon={faGithub} /></a>
 <a href="http://linkedin.com/in/sumeyyeaydemir" target="_blank"><FontAwesomeIcon className ='font-awesome' icon={faLinkedin} /></a>
 <a href="https://mobile.twitter.com/smyyaydmr" target="_blank"><FontAwesomeIcon className ='font-awesome' icon={faTwitter} /></a>
+
+
+https://stackoverflow.com/questions/23116591/how-to-include-a-font-awesome-icon-in-reacts-render
+https://codesandbox.io/s/m86ko7vp
